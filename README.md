@@ -106,5 +106,6 @@ print(report)
 
 * **開發者**：歐靜嬡 (Skylar Ou)
 * **GitHub repository**：[AI-Stock-Analysis-Recommendation](https://www.google.com/search?q=https://github.com/SkylarOu9005/AI-Stock-Analysis-Recommendation)
+* **開發日期**：2025/04/28
 
 ---
