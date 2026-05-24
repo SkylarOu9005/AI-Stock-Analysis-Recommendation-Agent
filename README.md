@@ -1,6 +1,6 @@
 - - -
 
-# 兩階段思考-金融分析AI代理人系統 (Two-Stage CoT Stock Analysis Agent)
+# 金融分析AI代理人 (Two-Stage CoT Stock Analysis Agent)
 
 本專案建構了一個基於兩階段鏈狀思考（Two-Stage Chain of Thought, CoT）架構的AI金融分析代理人（AI Agent）。系統模擬專業證券分析師的思維流程，透過自動化抓取即時市場數據、進行多項指標的技術分析，並由大型語言模型（LLM）依據邏輯鏈進行深度推理，最終產出具備高參考價值的投資決策報告與量化推薦建議。
 
@@ -43,7 +43,7 @@
 
 ```
 
-### 1. 工具整合 (Tools Set)
+### 1. 工具
 
 Agent 配備了專門的 Python 數據分析工具鏈，包含但不局限於：
 
@@ -105,7 +105,6 @@ print(report)
 ## 開發者與專案資訊
 
 * **開發者**：歐靜嬡 (Skylar Ou)
-* **專案類型**：AI Agent / 量化金融研究 / 提示詞工程應用
 * **GitHub repository**：[AI-Stock-Analysis-Recommendation](https://www.google.com/search?q=https://github.com/SkylarOu9005/AI-Stock-Analysis-Recommendation)
 
 ---
