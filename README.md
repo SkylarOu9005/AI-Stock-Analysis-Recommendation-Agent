@@ -86,7 +86,7 @@ pip install langchain openai pandas numpy yfinance matplotlib
 
 ### 2. 快速執行
 
-可以直接在 Google Colab 或本地 Jupyter 環境中執行 `Two_Stage_CoT_Stock_Analysis_Agent.ipynb`：
+亦可以直接在 Google Colab 或本地 Jupyter 環境中執行 `Two_Stage_CoT_Stock_Analysis_Agent.ipynb`：
 
 ```python
 # 初始化分析 agent
